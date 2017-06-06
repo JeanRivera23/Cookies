@@ -1,4 +1,4 @@
-# Cookies
+# Jean's Confections
 
 Demonstrates my understanding of setting and retrieving cookie data in a fun cookie themed site. Uses the cookies.js wrapper.
 
